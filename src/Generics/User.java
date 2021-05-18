@@ -16,4 +16,8 @@ public class User implements Comparable<User>{
     public String toString() {
         return "Points=" + points;
     }
+
+    public static void main(String[] args) {
+        System.out.println("aa");
+    }
 }
